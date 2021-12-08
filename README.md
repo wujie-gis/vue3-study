@@ -1,5 +1,6 @@
 # vue3-study
 
+配置Vue3的框架配置
 ## Project setup
 ```
 npm install
